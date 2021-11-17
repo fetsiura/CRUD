@@ -1,4 +1,4 @@
-package pl.jaroCRUD;
+package pl.jaroCRUD.utils;
 
 import javax.naming.Context;
 import javax.naming.InitialContext;
